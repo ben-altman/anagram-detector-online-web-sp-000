@@ -12,7 +12,7 @@ class Anagram
       |item|
       item.split("")
     }
-    
+
   end
 
 
