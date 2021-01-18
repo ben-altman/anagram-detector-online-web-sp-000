@@ -14,6 +14,7 @@ class Anagram
         matches << item
       end
     end
+    matches
   end
 
 
