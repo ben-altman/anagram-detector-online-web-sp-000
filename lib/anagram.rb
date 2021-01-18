@@ -7,5 +7,13 @@ class Anagram
     @word = word
   end
 
+  def match (array)
+    array.each {
+      |item|
+      item.split("")
+    }
+    
+  end
+
 
 end
